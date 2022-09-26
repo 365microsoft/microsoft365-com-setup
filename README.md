@@ -31,7 +31,7 @@ Get Microsoft 365 setup by visiting **microsoft365.com/setup**. Sign in to Micro
 
 After you purchase **25 digit Microsoft Office 365 product key**, then follow below steps and know where to enter the key;
 
-* Visit **[microsoft365.com/setup]()**.
+* Visit **[microsoft365.com/setup](https://github.com/365microsoft/microsoft365-com-setup)**.
 * Sign-in to MS 365 account.
 * Type the keycode correctly.
 * Follow prompts to redeem the key.
